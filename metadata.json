@@ -1,0 +1,8 @@
+{
+  "name": "Bíblia A Essência",
+  "description": "Bíblia Sagrada de estudo pessoal com leitura contínua, áudio narrado por versículo, marcadores, busca, plano 365, Harpa Cristã e modo offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
